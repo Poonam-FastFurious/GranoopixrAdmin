@@ -9,7 +9,7 @@ import "./assets/css/rangeslider.css";
 import "./assets/css/custom.css";
 import "./assets/css/main.css";
 import Home from "./Pages/Home/Home";
-//gdhgfsf
+
 import Aside from "./Pages/Home/Aside";
 import Header from "./Pages/Home/Header";
 import Profile from "./Pages/Settings/Profile";
